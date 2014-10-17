@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gym:home|Door43 (gym)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gym|d43-gym repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gym/archive/master.zip|d43-gym.zip]]
+
+**Recent Changes**
+{{changes>ns = gym}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gym|Ethnologue data]]
+
